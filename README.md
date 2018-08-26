@@ -25,4 +25,4 @@ test tool:wrk
 
 result:
 
-<img src="http://photo2.fanfou.com/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0g/7h/qa_59385.jpg@596w_1l.jpg"/>
+<img src="https://wx3.sinaimg.cn/mw690/7f366bb3ly1fun740fs55j21hy0v3422.jpg"/>
